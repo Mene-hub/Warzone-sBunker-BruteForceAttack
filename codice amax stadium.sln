@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codice amax stadium", "codice amax stadium\codice amax stadium.csproj", "{0B5CAF8F-739F-48E6-9267-0A467F68D634}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B5CAF8F-739F-48E6-9267-0A467F68D634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B5CAF8F-739F-48E6-9267-0A467F68D634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B5CAF8F-739F-48E6-9267-0A467F68D634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B5CAF8F-739F-48E6-9267-0A467F68D634}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E8D839E-3D2F-4AA3-AA70-01170774E64A}
+	EndGlobalSection
+EndGlobal

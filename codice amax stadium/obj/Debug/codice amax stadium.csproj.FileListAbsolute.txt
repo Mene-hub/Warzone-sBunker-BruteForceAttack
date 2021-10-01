@@ -1,0 +1,18 @@
+C:\Users\Claudio\source\repos\codice amax stadium\codice amax stadium\bin\Debug\codice amax stadium.exe.config
+C:\Users\Claudio\source\repos\codice amax stadium\codice amax stadium\bin\Debug\codice amax stadium.exe
+C:\Users\Claudio\source\repos\codice amax stadium\codice amax stadium\bin\Debug\codice amax stadium.pdb
+C:\Users\Claudio\source\repos\codice amax stadium\codice amax stadium\bin\Debug\WindowsInput.dll
+C:\Users\Claudio\source\repos\codice amax stadium\codice amax stadium\bin\Debug\WindowsInput.xml
+C:\Users\Claudio\source\repos\codice amax stadium\codice amax stadium\obj\Debug\MainWindow.g.cs
+C:\Users\Claudio\source\repos\codice amax stadium\codice amax stadium\obj\Debug\App.g.cs
+C:\Users\Claudio\source\repos\codice amax stadium\codice amax stadium\obj\Debug\codice amax stadium_MarkupCompile.cache
+C:\Users\Claudio\source\repos\codice amax stadium\codice amax stadium\obj\Debug\codice amax stadium_MarkupCompile.lref
+C:\Users\Claudio\source\repos\codice amax stadium\codice amax stadium\obj\Debug\MainWindow.baml
+C:\Users\Claudio\source\repos\codice amax stadium\codice amax stadium\obj\Debug\codice amax stadium.g.resources
+C:\Users\Claudio\source\repos\codice amax stadium\codice amax stadium\obj\Debug\codice_amax_stadium.Properties.Resources.resources
+C:\Users\Claudio\source\repos\codice amax stadium\codice amax stadium\obj\Debug\codice amax stadium.csproj.GenerateResource.cache
+C:\Users\Claudio\source\repos\codice amax stadium\codice amax stadium\obj\Debug\codice amax stadium.csproj.CoreCompileInputs.cache
+C:\Users\Claudio\source\repos\codice amax stadium\codice amax stadium\obj\Debug\codice amax stadium.csproj.CopyComplete
+C:\Users\Claudio\source\repos\codice amax stadium\codice amax stadium\obj\Debug\codice amax stadium.exe
+C:\Users\Claudio\source\repos\codice amax stadium\codice amax stadium\obj\Debug\codice amax stadium.pdb
+C:\Users\Claudio\source\repos\codice amax stadium\codice amax stadium\obj\Debug\codice amax stadium.csproj.AssemblyReference.cache

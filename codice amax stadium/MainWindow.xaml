@@ -1,0 +1,16 @@
+﻿<Window x:Class="codice_amax_stadium.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:codice_amax_stadium"
+        mc:Ignorable="d"
+        Title="Brute Force Attack" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="cod.png" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <TextBox Name="id" Width="500" Height="50" Background="Black" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" TextAlignment="Center" FontFamily="Consolas" FontSize="20" Foreground="Lime"></TextBox>
+        <Button Name="create" Width="200" Height="50" Margin="299,280,293,89" Click="create_Click" FontFamily="Consolas" FontSize="20" Background="Black" Foreground="#FF00FF23">create</Button>
+    </Grid>
+</Window>
